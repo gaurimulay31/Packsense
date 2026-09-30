@@ -1,5 +1,7 @@
 # PackSense - AI-Based Intelligent Food Packaging Material Recommendation System
 
+https://sahipack-app.web.app
+
 PackSense is an AI-powered decision-support system designed for SIH26236. It recommends optimal food packaging materials and specifications based on food commodity properties, storage environments, shelf-life requirements, and sustainability considerations.
 
 > **Note**: PackSense is a decision-support prototype intended for evaluation and research purposes, NOT a certified engineering or laboratory validation system.
